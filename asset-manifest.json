@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/sitio_react/static/css/main.ccbfeb4a.css",
+    "main.js": "/sitio_react/static/js/main.1f4c56b8.js",
+    "static/js/787.6e4dc555.chunk.js": "/sitio_react/static/js/787.6e4dc555.chunk.js",
+    "static/media/video2.mp4": "/sitio_react/static/media/video2.4c6c6f662b50b9bcbe69.mp4",
+    "static/media/video3.mp4": "/sitio_react/static/media/video3.63cb87ddbf2dd427d39f.mp4",
+    "static/media/video1.mp4": "/sitio_react/static/media/video1.f3c7902cd5a8a29f6053.mp4",
+    "static/media/video4.mp4": "/sitio_react/static/media/video4.7b03afc468e1f45e1377.mp4",
+    "static/media/c2.jpg": "/sitio_react/static/media/c2.9a7b91d3bca3c46b0c7a.jpg",
+    "static/media/a3.jpg": "/sitio_react/static/media/a3.2a6af7142543f11e48fc.jpg",
+    "static/media/alb3.jpg": "/sitio_react/static/media/alb3.0b81a5a3cef99326db3b.jpg",
+    "static/media/libro3.jpg": "/sitio_react/static/media/libro3.d9e1feca67b09a815b46.jpg",
+    "static/media/alb1.jpg": "/sitio_react/static/media/alb1.1f4c26b9c01234672ebb.jpg",
+    "static/media/premi3.jpg": "/sitio_react/static/media/premi3.09a312ebb60a43673e66.jpg",
+    "static/media/a1.jpg": "/sitio_react/static/media/a1.1c4b18e245f0f84c342d.jpg",
+    "static/media/c3.jpg": "/sitio_react/static/media/c3.973b90b13af587ef4506.jpg",
+    "static/media/cola3.jpg": "/sitio_react/static/media/cola3.74d6e22a3257c06d42f2.jpg",
+    "static/media/can2.jpg": "/sitio_react/static/media/can2.c9ee8aaba388fa7af917.jpg",
+    "static/media/logo.svg": "/sitio_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sitio_react/index.html",
+    "main.ccbfeb4a.css.map": "/sitio_react/static/css/main.ccbfeb4a.css.map",
+    "main.1f4c56b8.js.map": "/sitio_react/static/js/main.1f4c56b8.js.map",
+    "787.6e4dc555.chunk.js.map": "/sitio_react/static/js/787.6e4dc555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccbfeb4a.css",
+    "static/js/main.1f4c56b8.js"
+  ]
+}
