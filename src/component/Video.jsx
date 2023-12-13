@@ -7,18 +7,28 @@ import { Fouter } from './Fouter';
 export const Video = () => {
   return (
     <div className='container' style={{paddingTop:20}}>
-    <center>
         <h2>Videocilps Famosos</h2>
-    
-        <div className='video'>
-        <ReactPlayer url={vid} controls/>
-        <br/>
-        <ReactPlayer url={vid1} controls/>
-        <br/>
-        <ReactPlayer url={vid2} controls/>
-        </div>
-    
-      </center>
+      <div class="card mb-3">
+           <ReactPlayer url={vid} controls loop width="100%"/>
+          <div class="card-body">
+            <h5 class="card-title">No fue un tiro de Suerte </h5>
+            <p class="card-text"><small class="text-muted">videoclip1</small></p>
+          </div>
+      </div>
+      <div class="card mb-3">
+           <ReactPlayer url={vid1} controls loop width="100%"/>
+          <div class="card-body">
+            <h5 class="card-title">Derroche de Amor </h5>
+            <p class="card-text"><small class="text-muted">videoclip2</small></p>
+          </div>
+      </div>
+      <div class="card mb-3">
+           <ReactPlayer url={vid2} controls loop width="100%"/>
+          <div class="card-body">
+            <h5 class="card-title">Tu poeta </h5>
+            <p class="card-text"><small class="text-muted">videoclip3</small></p>
+          </div>
+      </div>
       <Fouter/>
     </div>
   )
